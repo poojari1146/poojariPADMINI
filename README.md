@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Padmini poojari
-- 👀 I’m interested in 
+- 👀 I’m interested in solving puzzles and uncovering patterns.
 - 🌱 I’m currently learning AWS tools
 - 📫 How to reach me poojari1146@gmail.com
 - 📞 Know more by dialing +1 (313) 266-1844
