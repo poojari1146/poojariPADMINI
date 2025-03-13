@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Padmini poojari
 - 🚺 Pronouns: she/her
+- 📫 How to reach me poojari.umd7836@gmail.com
 - 👀 I love solving puzzles and uncovering patterns in data.
 - 🌱 Currently diving into AWS tools to level up my data skills.
-- 📫 How to reach me poojari.umd7836@gmail.com
 - ⚡ Results-driven & always curious
 - 🎢 Fueled by adrenaline, whether it’s tackling complex datasets or chasing adventure!
 - 🎨 Creative at heart— an artist on canvas.
