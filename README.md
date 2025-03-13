@@ -8,7 +8,7 @@
 - 🎢 Fueled by adrenaline, whether it’s tackling complex datasets or chasing adventure!
 - 🎨 Creative at heart— an artist on canvas.
 - 🏋️‍♀️ Balance is key—analytics by day, fitness & adventure by night!
-- 
+  
 <!---
 poojari1146/poojari1146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
